@@ -1,0 +1,23 @@
+body{
+    background-color: #c5dec4;
+}
+#nube{
+    color:aliceblue;
+    opacity: 0.5;
+    font-size: 10em;
+}
+.titulo{
+    position: relative;
+    display: inline-block;
+
+}
+#title{
+    position: absolute;
+    top: 1em;
+    left: 1em;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.tarjeta1{
+    background-color: whitesmoke;
+
+}
